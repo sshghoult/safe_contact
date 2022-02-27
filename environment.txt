@@ -1,0 +1,3 @@
+api_token=rossya_budet_svobodnoy
+chat_id=svobodu_politzakluchennim
+
