@@ -1,3 +1,6 @@
-api_token=rossya_budet_svobodnoy
-chat_id=svobodu_politzakluchennim
-
+# api_token=rossya_budet_svobodnoy
+# chat_id=svobodu_politzakluchennim
+#
+api_token=1975461898:AAHwbxuWRDVl3Zi9TF2uyd5LWf66kJGWJtM
+# chat_id=-682358576
+chat_id=-777449373
